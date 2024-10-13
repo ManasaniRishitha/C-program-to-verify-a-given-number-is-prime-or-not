@@ -13,7 +13,7 @@ flag++;
 }
 }
 if(flag==0)
-printf("\n %d is a prime number",n);
+        printf("\n %d is a prime number",n);
 else
-printf("\n %d is not  a prime number",n);
+         printf("\n %d is not  a prime number",n);
 }
